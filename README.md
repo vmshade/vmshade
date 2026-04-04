@@ -1,5 +1,15 @@
 ## Hi there 👋
-
+<p align="center">
+  <a href="https://your-site.com">
+    <img src="./assets/website.svg" height="40"/>
+  </a>
+  <a href="https://github.com/your-username">
+    <img src="./Assets/astro.svg" height="40"/>
+  </a>
+  <a href="https://twitter.com/your-handle">
+    <img src="./assets/twitter.svg" height="40"/>
+  </a>
+</p>
 <!--
 **vmshade/vmshade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
