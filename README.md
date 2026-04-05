@@ -8,7 +8,7 @@ i love to build stuff, break stuff and fix stuff
 
 ## Languages I know
 
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,py,bash" />
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,py,bash,powershell" />
 
 ---
 
@@ -21,6 +21,12 @@ i love to build stuff, break stuff and fix stuff
 ## Tools I use
 
 <img src="https://skillicons.dev/icons?i=vscode,neovim,idea,docker,kubernetes,cloudflare,vercel" />
+
+---
+
+## Operating Systems
+
+<img src="https://skillicons.dev/icons?i=windows,debian,arch" />
 
 ---
 
