@@ -1,6 +1,6 @@
 # Hey, I'm vmshade
 
-I'm a 14-year-old hobbyist based in Scotland
+im a Frontend Developer and Hardware Engineer
 
 i love to build stuff, break stuff and fix stuff
 
