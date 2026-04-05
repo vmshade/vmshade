@@ -1,7 +1,29 @@
+# Hey, I'm vmshade
 
+I'm a 14-year-old hobbyist based in Scotland
 
+i love to build stuff, break stuff and fix stuff
 
-## Stuff i know / use
+---
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,astro,svelte,git,figma,postgres,kubernetes,docker,cloudflare,vercel,nodejs,nginx&perline=8" />
+## Languages I know
+
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,py,bash" />
+
+---
+
+## Frameworks I use
+
+<img src="https://skillicons.dev/icons?i=svelte,astro,react,tailwindcss" />
+
+---
+
+## Tools I use
+
+<img src="https://skillicons.dev/icons?i=vscode,neovim,idea,docker" />
+
+---
+
+## Currently learning
+
+<img src="https://skillicons.dev/icons?i=lua" />
