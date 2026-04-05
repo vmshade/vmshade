@@ -34,4 +34,4 @@ I love to build stuff, break stuff and fix stuff
 
 <img src="https://skillicons.dev/icons?i=lua,linux" />
 
-![Top Languages](https://stats.vmshade.com/api/top-langs/?username=vmshade&theme=dark)
+![Top Languages](https://stats.vmshade.com/api/top-langs/?username=vmshade&theme=tokyonight)
