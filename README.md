@@ -1,8 +1,8 @@
 # Hey, I'm vmshade
 
-im a Frontend Developer and Hardware Engineer
+Im a Frontend Developer and Hardware Engineer
 
-i love to build stuff, break stuff and fix stuff
+I love to build stuff, break stuff and fix stuff
 
 ---
 
@@ -24,7 +24,7 @@ i love to build stuff, break stuff and fix stuff
 
 ---
 
-## Operating Systems
+## Operating systems
 
 <img src="https://skillicons.dev/icons?i=windows,debian,arch" />
 
