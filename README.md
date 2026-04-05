@@ -33,3 +33,5 @@ I love to build stuff, break stuff and fix stuff
 ## Currently learning
 
 <img src="https://skillicons.dev/icons?i=lua,linux" />
+
+![Top Languages](https://stats.vmshade.com/api/top-langs/?username=vmshade&theme=dark)
