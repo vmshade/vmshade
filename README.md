@@ -20,7 +20,7 @@ I love to build stuff, break stuff and fix stuff
 
 ## Tools I use
 
-<img src="https://skillicons.dev/icons?i=sublime,vscode,neovim,idea,docker,kubernetes,cloudflare,vercel,obsidian,figma,git&perline=7" />
+<img src="https://skillicons.dev/icons?i=sublime,vscode,neovim,idea,docker,kubernetes,cloudflare,vercel,workers,obsidian,figma,git&perline=7" />
 
 ---
 
@@ -32,6 +32,6 @@ I love to build stuff, break stuff and fix stuff
 
 ## Currently learning
 
-<img src="https://skillicons.dev/icons?i=lua,linux" />
+<img src="https://skillicons.dev/icons?i=swift,kotlin,lua,solidjs,tauri"  />
 
 ![Top Languages](https://stats.vmshade.com/api/top-langs/?username=vmshade&theme=tokyonight)
