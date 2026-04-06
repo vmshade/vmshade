@@ -14,13 +14,13 @@ I love to build stuff, break stuff and fix stuff
 
 ## Frameworks I use
 
-<img src="https://skillicons.dev/icons?i=svelte,astro,react,tailwindcss" />
+<img src="https://skillicons.dev/icons?i=svelte,astro,react,tailwindcss,vue" />
 
 ---
 
 ## Tools I use
 
-<img src="https://skillicons.dev/icons?i=vscode,neovim,idea,docker,kubernetes,cloudflare,vercel" />
+<img src="https://skillicons.dev/icons?i=sublime,vscode,neovim,idea,docker,kubernetes,cloudflare,vercel,obsidian,figma,git&perline=7" />
 
 ---
 
