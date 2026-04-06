@@ -20,7 +20,7 @@ I love to build stuff, break stuff and fix stuff
 
 ## Tools I use
 
-<img src="https://skillicons.dev/icons?i=sublime,vscode,neovim,idea,docker,kubernetes,cloudflare,vercel,workers,obsidian,figma,git&perline=7" />
+<img src="https://skillicons.dev/icons?i=sublime,vscode,neovim,idea,docker,kubernetes,cloudflare,vercel,workers,obsidian,figma,git,npm,pnpm&perline=7" />
 
 ---
 
