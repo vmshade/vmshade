@@ -1,3 +1,7 @@
 # Hey, I'm vmshade
 
-Im a Frontend Developer and Hardware Engineer
+Things i do
+- Basic web development
+- Icon Design
+- Hardware Engineering
+- Photography
